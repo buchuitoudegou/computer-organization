@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+WARNING: [VRFC 10-986] literal value truncated to fit in 2 bits [C:/Users/75654/Desktop/cpu_multi/simulation/RegFile.v:40]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/signZeroExtend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module signZeroExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/IM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/simulation/top_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/75654/Desktop/cpu_multi/cpu_multi.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

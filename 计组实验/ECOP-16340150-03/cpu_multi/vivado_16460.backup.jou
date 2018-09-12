@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Thu Jun 28 10:02:31 2018
+# Process ID: 16460
+# Current directory: C:/Users/75654/Desktop/cpu_multi
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12912 C:\Users\75654\Desktop\cpu_multi\cpu_multi.xpr
+# Log file: C:/Users/75654/Desktop/cpu_multi/vivado.log
+# Journal file: C:/Users/75654/Desktop/cpu_multi\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/75654/Desktop/cpu_multi/cpu_multi.xpr
+launch_simulation
+source top_module.tcl
+add_wave {{/top_module/regFile/regFile}} 
+add_wave {{/top_module/ram/ram}} 
+relaunch_sim
+run 2 us
+run 10 us
+run 10 us
+relaunch_sim
+run 2 us
+run 10 us
+run 10 us
+close_sim

@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../simulation/RegFile.v"
+verilog xil_defaultlib  "../../../simulation/signZeroExtend.v"
+verilog xil_defaultlib  "../../../simulation/RAM.v"
+verilog xil_defaultlib  "../../../simulation/PC.v"
+verilog xil_defaultlib  "../../../simulation/IR.v"
+verilog xil_defaultlib  "../../../simulation/IM.v"
+verilog xil_defaultlib  "../../../simulation/ControlUnit.v"
+verilog xil_defaultlib  "../../../simulation/ALU.v"
+verilog xil_defaultlib  "../../../simulation/top_module.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
